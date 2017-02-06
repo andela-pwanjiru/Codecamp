@@ -1,4 +1,3 @@
-# Pluralsight games
 import random
 
 print("What is your favourite number?")
